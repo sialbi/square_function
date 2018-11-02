@@ -1,0 +1,11 @@
+Package: Square_Function
+Type: Package
+Title: Estimation of the correct Multilevel Model
+Version: 0.0.1
+Date: 2018-10-25
+Author: Silvan Albin [aut,cre]
+Maintainer: Silvan Albin <silvan.albin@hotmail.com>
+Description: A simple function to calculate the square of a number.
+License: GPL (>=2)
+Imports:
+URL:
